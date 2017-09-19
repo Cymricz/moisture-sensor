@@ -25,5 +25,7 @@ void loop()
   //int soilMoistureB = sensorTwo.readSoil();
   
   sensorOne.printReading(soilMoistureA);
+  int x = sensorOne.getFormattedValue(soilMoistureA);
+  Serial.print(x);
   
 }

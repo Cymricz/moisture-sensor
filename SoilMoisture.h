@@ -26,6 +26,7 @@ public:
     SoilMoisture(int pin);
     int readSoil();
     void printReading(int soilMoisture);
+    float getFormattedValue(int avgMoisture);
 private:
     int _pin;
 };
