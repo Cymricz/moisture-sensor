@@ -1,3 +1,0 @@
-SoilMoisture	KEYWORD1
-readSoil	KEYWORD2
-printReading	KEYWORD2
