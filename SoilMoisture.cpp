@@ -46,7 +46,7 @@ float SoilMoisture::getFormattedValue(int avgMoisture)
 /*
     Accept value obtained from 'readSoil' to format as an easier-to-understand value
     Returns a rounded answer. One number in initial operation needs to be a
-    float in order to get an answer back from the division.
+    float in order to get an answer back from the division
  */
 {
     const int minValue{0};
