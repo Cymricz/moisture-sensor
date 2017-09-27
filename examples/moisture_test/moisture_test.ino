@@ -28,4 +28,5 @@ void loop()
   int x = sensorOne.getFormattedValue(soilMoistureA);
   Serial.print(x);
   
+
 }

@@ -1,5 +1,10 @@
 SoilMoisture	KEYWORD1
+
 readSoil	KEYWORD2
+
 printReading	KEYWORD2
+
 getFormattedValue	KEYWORD2
+
 moistureInterval	KEYWORD2
+

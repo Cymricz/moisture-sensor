@@ -32,5 +32,3 @@ public:
 private:
     int _pin;
 };
-
-#endif
